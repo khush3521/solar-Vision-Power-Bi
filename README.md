@@ -204,7 +204,7 @@ Solar-Vision-Dashboard/
 
 **[Khush Panchal]**
 - 🌐 LinkedIn: www.linkedin.com/in/khush-panchal-96b557352
-- 💻 GitHub: 
+- 💻 GitHub: https://github.com/khush3521/solar-Vision-Power-Bi
 
 
 ---
