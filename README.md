@@ -17,7 +17,7 @@ It enables executives and decision-makers to monitor **Supplier performance, Inv
 ---
 
 ## 🖼️ Dashboard Preview
-
+https://github.com/khush3521/solar-Vision-Power-Bi/blob/main/Solar_ss.png
 
 
 ---
